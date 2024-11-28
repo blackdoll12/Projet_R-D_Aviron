@@ -1,0 +1,22 @@
+{
+    "device_id": "IMU_001",    
+    "data": {
+        "accelerometer": {
+            "x": 0.01,                      
+            "y": -0.02,                   
+            "z": 9.81                        
+        },
+        "gyroscope": {
+            "x": 0.002,
+            "y": 0.001,                     
+            "z": -0.003                     
+        },
+        "magnetometer": {
+            "x": 25.6,                      
+            "y": -13.2,                     
+            "z": 40.7                     
+        },
+        "temperature": 25.3,                  
+        "pressure": 1013.25                    
+    }
+}
