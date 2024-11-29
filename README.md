@@ -1,35 +1,40 @@
-# Projet_R-D_Aviron
-RowTrack : Améliorer les performances des athlètes d'aviron
-Bienvenue sur RowTrack, une application innovante conçue pour aider les athlètes d'aviron à maximiser leurs performances en suivant leurs données d'entraînement et en analysant l'exécution de leurs mouvements.
+# Project_R-D_Rowing
+RowTrack: Improving the performance of rowing athletes
+Welcome to RowTrack, an innovative application designed to help rowing athletes maximise their performance by tracking their training data and analysing the execution of their movements.
 
-🎯 Objectifs du projet
-Traquer les performances des rameurs en temps réel grâce à des capteurs et des données.
-Fournir des recommandations personnalisées pour corriger les mouvements.
-Améliorer l'efficacité et la sécurité des entraînements en réduisant les risques de blessures.
-💡 Fonctionnalités
-Suivi des performances :
+🎯 Project objectives
+Track rowers' performance in real time using sensors and data.
+Provide personalised recommendations for correcting movements.
+Improve the efficiency and safety of training by reducing the risk of injury.
+💡 Features
+Performance tracking:
 
-Mesure de la vitesse, des coups par minute, de la puissance et de la distance parcourue.
-Enregistrement des données d’entraînement dans un tableau de bord clair et interactif.
-Analyse des mouvements :
+Measurement of speed, strokes per minute, power and distance covered.
+Recording of training data in a clear, interactive dashboard.
+Movement analysis:
 
-Utilisation d'algorithmes de Machine Learning pour détecter les écarts dans l'exécution technique.
-Feedback en temps réel pour ajuster la posture et le rythme.
-Personnalisation des entraînements :
+Use of Machine Learning algorithms to detect deviations in technical execution.
+Real-time feedback to adjust posture and pace.
+Personalised training:
 
-Génération de plans d'entraînement basés sur l'historique de performance.
-Objectifs spécifiques pour améliorer la technique et la condition physique.
-Rapports détaillés :
+Generation of training plans based on performance history.
+Specific objectives to improve technique and fitness.
+Detailed reporting:
 
-Visualisation des progrès via des graphiques intuitifs.
-Comparaison avec les objectifs définis.
-⚙️ Technologies utilisées
-Frontend :SWIFT  pour une expérience mobile fluide via IOS.
-Backend :Python, FlaskAPI.
-Base de données : MongoDB pour le stockage des données utilisateur et d’entraînement.
-Analyse de mouvements :
-Modèles de Machine Learning basés sur TensorFlow et MediaPIPE.
-Traitement des signaux via des capteurs inertiels (IMU) ou des caméras connectées.
+Visualise progress using intuitive graphs.
+Comparison with set targets.
+⚙️ Technologies used
+Frontend:SWIFT for a fluid mobile experience via IOS.
+Backend:Python, FlaskAPI.
+Database: MongoDB for storing user and training data.
+Motion analysis:
+Machine Learning models based on TensorFlow and MediaPIPE.
+Signal processing via inertial sensors (IMU) or connected cameras.
+
+PS: THIS REPOSITORY WAS CREATED BY THE BACKEND TEAM FOR THE CREATION OF A PROOF OF CONCEPT TO BE PRESENTED AFTER 3 DAYS OF INCUBATION
+
+
+
 
 
 
